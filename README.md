@@ -14,7 +14,7 @@ List of all the lessons learned, best practices, and links from my time studying
 * [Tensorflow/Deep Nets](#tensorflowdeep-nets)
 * [Deep Learning Frameworks](#deep-learning-frameworks)
 * [CNNs](#cnns)
-* [NLP](#nlp)
+* [NLP](#nlp
 * [Deep Reinforcement Learning](#deep-reinforcement-learning)
 * [ML Project Advice](#ml-project-advice)
 * [Math Resources](#math-resources)
